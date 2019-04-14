@@ -1,0 +1,36 @@
+{
+  "/home/dance2die/src/throwaway/temp/logic-gates/dist/logicGates.cjs.development.js": {
+    "bundled": 125,
+    "minified": 72,
+    "gzipped": 86
+  },
+  "/home/dance2die/src/throwaway/temp/logic-gates/dist/logicGates.umd.development.js": {
+    "bundled": 411,
+    "minified": 236,
+    "gzipped": 178
+  },
+  "/home/dance2die/src/throwaway/temp/logic-gates/dist/logicGates.cjs.production.js": {
+    "bundled": 81,
+    "minified": 50,
+    "gzipped": 66
+  },
+  "/home/dance2die/src/throwaway/temp/logic-gates/dist/logicGates.umd.production.js": {
+    "bundled": 361,
+    "minified": 214,
+    "gzipped": 165
+  },
+  "/home/dance2die/src/throwaway/temp/logic-gates/dist/logicGates.es.production.js": {
+    "bundled": 63,
+    "minified": 33,
+    "gzipped": 52,
+    "treeshaked": {
+      "rollup": {
+        "code": 0,
+        "import_statements": 0
+      },
+      "webpack": {
+        "code": 951
+      }
+    }
+  }
+}
